@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\user\cw25-1-20\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\373928504.index
+\cw25-1-20\src
+C:\Users\user\cw25-1-20\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3773723103.index
+\cw25-1-20\src

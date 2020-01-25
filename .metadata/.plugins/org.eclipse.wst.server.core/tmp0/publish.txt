@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Jan 25 12:23:50 EET 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user\\cw25-1-20\\cw25-1-20\\WebContent\\WEB-INF\\lib\\spring-web-5.2.3.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.3.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user\\cw25-1-20\\cw25-1-20\\WebContent\\WEB-INF\\lib\\spring-web-5.2.3.RELEASE.jar=WEB-INF/lib/spring-web-5.2.3.RELEASE.jar
